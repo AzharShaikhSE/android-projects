@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MultiNotes</string>
+    <string name="info">info</string>
+    <string name="add">add</string>
+    <string name="file_name">notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saved">Notes Saved!</string>
+    <string name="no_file">File not found</string>
+    <string name="texttitle">TextTitle</string>
+    <string name="date">Date</string>
+</resources>
