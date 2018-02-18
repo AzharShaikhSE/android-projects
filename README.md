@@ -2,7 +2,7 @@
 
 Android academic projects:
 ## 1. Temperature Converter:
-• The app allows the user to select either Fahrenheit-to-Celsius or Celsius-to-Fahrenheit
+- The app allows the user to select either Fahrenheit-to-Celsius or Celsius-to-Fahrenheit
 conversions. No other conversions is allowed, and one conversion must be selected at any
 given time (no situation where no conversion is selected).
 - The conversion operation, value, and calculated results are added to the “history” (most recent
