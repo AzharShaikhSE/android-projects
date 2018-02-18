@@ -11,12 +11,12 @@ conversions at the top of the history, history is scrollable when many entries a
 
 ## 2. QuickNotes:
 - The app should act as a simple note pad, allowing the user to enter text notes.
-• The note pad displays the last update date/time (which is the last save date/time – this is saved when the note is saved - not entered or editable by the user).
-• Note text (and the saved time) is automatically saved when the user presses the back arrow, home
+- The note pad displays the last update date/time (which is the last save date/time – this is saved when the note is saved - not entered or editable by the user).
+- Note text (and the saved time) is automatically saved when the user presses the back arrow, home
 button, etc. – any time the app goes into the Stop state.
-• Note text (and the saved time) is saved to the device’s internal file system i.e. JSON file.
-• Note text (and the saved time) should be automatically loaded when the app goes into the Resume state.
-• If no saved data file is present, the app starts with no text and the current date/time displayed as
+- Note text (and the saved time) is saved to the device’s internal file system i.e. JSON file.
+- Note text (and the saved time) should be automatically loaded when the app goes into the Resume state.
+- If no saved data file is present, the app starts with no text and the current date/time displayed as
 the Last Update time.
 
 > Uses: File System, State Saving, Alternate Landscape Layout
